@@ -28,10 +28,10 @@ Status: In Progress
   - Watch videos using React with c++
   - Watch videos on how to use Figma
   - Watch videos on how to connect React to Figma
-  - Ask friends with experience: Nico, Payge, Leo, Jaafar, Taylor
+  - Ask friends with experience: Nico, Payge, Leo, Jaafar, Taylor, Ariadne
   - 10%
 - Design on Figma (By Mar 17)
-  - Let other people look at your design (Sam, Kate, Diya)
+  - Let other people look at your design (Sam, Kate, Diya, CJ, Ariadne)
     - Do they understand what the website is used for
     - Is it easy to use?
   - 20%
@@ -42,3 +42,10 @@ Status: In Progress
 # Resources:
 - Carbon Footprint sites to compare to:
   - https://climate-calculator.climatehero.org/
+ 
+- Carbon Footprint Calculation videos
+  - 
+- How to use Figma
+  - 
+- How to use React
+  - 
